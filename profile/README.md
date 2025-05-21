@@ -49,7 +49,7 @@ Our mission: **Transform ideas into impactful projects — together.**
 ✨ We thrive on **coffee ☕**, curiosity, and code!  
 🚀 Every bug is just an undiscovered feature.  
 🌟 Dreams? We turn them into code.
-Our motto: **"Innovate, Collaborate, Elevate."**
+🛑Our motto: **"Innovate, Collaborate, Elevate."**
 
 ---
 
@@ -72,4 +72,4 @@ Our motto: **"Innovate, Collaborate, Elevate."**
 
 ---
 
-*Crafted with ❤️ by the DevZone 254 Community — Let's build together!**Created with ❤️ by the DevZone 254 Community — where innovation meets collaboration!*
+*Crafted with ❤️ by the DevZone 254 Community — Let's build together!**
